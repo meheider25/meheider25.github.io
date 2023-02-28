@@ -150,5 +150,6 @@ h2, h1	{
 	font-size:2em;
 	}
 header	{
-	background-image: "programacion.jpg";
+	background-image: url('programacion.jpg');
+	background-size: cover;
 }
